@@ -20,16 +20,6 @@
 ### ML
 ![img](VisualResults/极线图（done）/算法ML.jpg)
 ## WordCloud
-### DA
-![img](VisualResults/词云/Data Analyst.png)
-### DE
-![img](VisualResults/词云/Data Engineer.png)
-### DS
-![img](VisualResults/词云/Data Scientist.png)
-### MLE
-![img](VisualResults/词云/Machine Learning Engineer.png)
-### SE
-![img](VisualResults/词云/Software Engineer.png)
 ### Sta
 ![img](VisualResults/词云/Statistician.png)
 ## SalaryDistribution
